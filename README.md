@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![rick](https://user-images.githubusercontent.com/11444352/111814477-cb4cfb00-88da-11eb-858d-edbeb4531552.gif)
+
 
 <!--
 **UsamaHameed/UsamaHameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
