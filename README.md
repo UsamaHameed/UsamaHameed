@@ -3,7 +3,6 @@
 
 Hey, nice to meet you ✨
 
-- 🔭  I’m currently working on [Rome](https://github.com/rome/tools) 👑
 - 🌱  I’m currently learning Rust 🦀
 - 👯  I’m looking to collaborate on javascript and typescript tooling 🧰
 - 🤔  I’m looking for help with Rust 🥵
