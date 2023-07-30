@@ -1,16 +1,21 @@
 
 
 
-Hey, nice to meet you ✨
-
-- 🌱  I’m currently learning Rust 🦀
-- 👯  I’m looking to collaborate on javascript and typescript tooling 🧰
-- 🤔  I’m looking for help with Rust 🥵
-- 💬  Ask me about setting up your JS/TS project and toolchain ⛓️
-- ⚡  Fun fact: 🐨  are my favourite animal
 
 
+hey, nice to meet you ✨
 
-And mandatory rickroll
+- 🌱  currently learning Rust 🦀
+- 👯  looking to collaborate on tooling for the web and neovim plugins 🧰
+- 💬  ask me about setting up your js/ts project and toolchain ⛓️
+- 🚝  can help you get started with your (neo)vim journey 🛤️
+- ⚡   fun fact: 🐨 are my favourite animal
 
+profile visists (since 30th July 2023):
+![visits](https://profile-counter.glitch.me/UsamaHameed/count.svg)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaHameed&layout=compact)
+
+and mandatory rickroll
+<br />
 ![rick](https://user-images.githubusercontent.com/11444352/111814477-cb4cfb00-88da-11eb-858d-edbeb4531552.gif)
