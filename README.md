@@ -1,13 +1,10 @@
 
-
-
-
-
 hey, nice to meet you ✨
 
-- 🌱  currently learning Rust 🦀
-- 👯  looking to collaborate on tooling for the web and neovim plugins 🧰
-- 💬  ask me about setting up your js/ts project and toolchain ⛓️
-- 🚝  can help you get started with your (neo)vim journey 🛤️
+- 🌱  I am currently learning to contribute to Neovim
+- 👯  looking to collaborate on developer tools and neovim plugins
+- 💬  You can ask me about setting up your js/ts project and toolchain
+- 🚝  I can help you get started with your neovim journey
 - ⚡   fun fact: 🐨 are my favourite animal
 
+Have a look at my [blog](https://borrowchecker.dev/)
