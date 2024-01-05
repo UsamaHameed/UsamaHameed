@@ -8,3 +8,5 @@ hey, nice to meet you ✨
 - ⚡   fun fact: 🐨 are my favourite animal
 
 Have a look at my [blog](https://borrowchecker.dev/)
+
+Public [PRs](https://github.com/search?q=author%3AUsamaHameed&type=pullrequests&ref=advsearch&p=1)
